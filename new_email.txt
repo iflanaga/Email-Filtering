@@ -1,0 +1,3 @@
+For decades, electrocardiograms (ECGs) have been vital in diagnosing and treating heart disease. Yet, much of that data still exists only on paper as printouts, scans, or photographs, and remains inaccessible to modern AI systems. Today, you can help change that.
+
+In this competition, your challenge is to build models that convert ECG images into digital time-series data. By doing so, you’ll help bridge the gap between analog medical records and data-driven healthcare innovation.
